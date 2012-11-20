@@ -1,5 +1,5 @@
 MSER
-====
+===
 
 Linear time Maximally Stable Extremal Regions (MSER) implementation as described
 in D. Nistér and H. Stewénius, "Linear Time Maximally Stable Extremal Regions",
