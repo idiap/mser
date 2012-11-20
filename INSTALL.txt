@@ -1,0 +1,15 @@
+********************************************************************************
+*                                                                              *
+*                                    MSER                                      *
+*                                                                              *
+*                  Charles Dubout <charles.dubout@idiap.ch>                    *
+*                                                                              *
+********************************************************************************
+
+The MSER class can be used 'as is', by simply adding it to your C++ project.
+
+A simple test case is provided in order to demonstrate the usage of the class.
+To compile it, you can use the provided CMake file or simply compile both .cpp
+files and link them with the libjpeg library.
+It's usage is as follows, "./test input.jpg output.jpg" where input.jpg is a
+valid jpeg image. On exit, the image output.jpg will show the detected MSER.
